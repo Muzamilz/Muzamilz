@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muzamil Mohammed</h1>
 <h3 align="center">A passionate IT Specialist</h3>
-<img src="https://komarev.com/ghpvc/?username=muzamilz&label=Profile%20views&color=0e75b6&style=flat" alt="muzamilz" /> </p>
+
+<p align="left"> 
+  <img src="https://dribbble.com/shots/3928976-Salesforce-animated-GIF" alt="muzamilz" /> </p>
 
 <p align="left"> 
 
