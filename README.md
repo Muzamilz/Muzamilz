@@ -1,13 +1,6 @@
-
- __     ______  ____   ____   _____   ____   _____  _____  
- \ \   / / __ \|  _ \ / __ \ / ____| |  _ \ / ____|/ ____| 
-  \ \_/ / |  | | |_) | |  | | (___   | |_) | |    | (___   
-   \   /| |  | |  _ <| |  | |\___ \  |  _ <| |     \___ \  
-    | | | |__| | |_) | |__| |____) | | |_) | |____ ____) | 
-    |_|  \____/|____/ \____/|_____/  |____/ \_____|_____/  
-
-<h1 align="center">⚡ Yo, I'm Muzamil Mohammed ⚡</h1>
-<h2 align="center">🚀 The Vibe Coder | IT Specialist | Builder of Cool Stuff</h2>
+<h1 align="center">🔥 VIBE CODER 🔥</h1>
+<h2 align="center">⚡ Yo, I'm Muzamil Mohammed ⚡</h2>
+<h3 align="center">🚀 IT Specialist | Builder of Cool Stuff | Always Coding. Always Vibing.</h3>
 
 ---
 
